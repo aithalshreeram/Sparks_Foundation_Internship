@@ -26,8 +26,10 @@ import numpy as np
 ## Graphs
 
 ### Scatter Plot
-![image of scatterplot](https://github.com/aithalshreeram/Sparks_Foundation_Internship/tree/main/Task_1/Images/Images%20(1).png)
+![image_of_scatterplot](https://github.com/aithalshreeram/Sparks_Foundation_Internship/tree/main/Task_1/Images/Images%20(1).png)
 
 ### Regression Plot
-![image of regressionplot](https://github.com/aithalshreeram/Sparks_Foundation_Internship/tree/main/Task_1/Images%20(2).png)
-## Output
+![image_of_regressionplot](https://github.com/aithalshreeram/Sparks_Foundation_Internship/tree/main/Task_1/Images%20(2).png)
+
+## Conclusion
+If a student studies for 9.25 hrs/day, then his/her predicted score will be 93%.
