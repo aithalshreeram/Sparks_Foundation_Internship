@@ -26,8 +26,8 @@ import numpy as np
 ## Graphs
 
 ### Scatter Plot
-![image of scatterplot] (https://github.com/aithalshreeram/Sparks_Foundation_Internship/tree/main/Task_1/Images/Images%20(1).png)
+![image of scatterplot](https://github.com/aithalshreeram/Sparks_Foundation_Internship/tree/main/Task_1/Images/Images%20(1).png)
 
 ### Regression Plot
-![image of regressionplot] (https://github.com/aithalshreeram/Sparks_Foundation_Internship/tree/main/Task_1/Images%20(2).png)
+![image of regressionplot](https://github.com/aithalshreeram/Sparks_Foundation_Internship/tree/main/Task_1/Images%20(2).png)
 ## Output
