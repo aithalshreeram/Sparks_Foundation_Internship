@@ -19,6 +19,18 @@ import numpy as np
 ~~~
 ## Graphs
 
+### Toss Winnning Impacts
+
+![toss_winning_impact](https://github.com/aithalshreeram/Sparks_Foundation_Internship/blob/main/Task_5/Images/Images%20(1).png)
+
+### Toss Decision Impacts 
+
+![toss_decision_impact](https://github.com/aithalshreeram/Sparks_Foundation_Internship/blob/main/Task_5/Images/Images%20(2).png)
+
+### Most Runs Scored
+
+![most_run_scored](https://github.com/aithalshreeram/Sparks_Foundation_Internship/blob/main/Task_5/Images/Images%20(4).png)
+
 ## Conclusion
 
 #### Most Successful Players Allround
