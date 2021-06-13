@@ -22,4 +22,10 @@ drive.mount('/content/drive')
 ~~~
 ## Graphs
 
+### Joint Plot
+
+### Pair Plot
+
+### Scatter Plot
+
 ## Output
