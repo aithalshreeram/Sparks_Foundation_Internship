@@ -20,8 +20,10 @@ import seaborn as sns
 from google.colab import drive
 drive.mount('/content/drive')
 ~~~
-## Graphs
+##  Conclusion
 
-## Output
+## Graph
 
+### Decision Tree Classifier
 
+![decision_tree_classifier](https://github.com/aithalshreeram/Sparks_Foundation_Internship/blob/main/Task_6/Images/Image%20(1).png)
