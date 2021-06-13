@@ -24,6 +24,6 @@ import numpy as np
 %matplotlib inline
 ~~~
 ## Graphs
-![Scatter Plot] https://github.com/aithalshreeram/Sparks_Foundation_Internship/tree/main/Task_1/Images/Images (1)
-![Regression Plot] https://github.com/aithalshreeram/Sparks_Foundation_Internship/tree/main/Task_1/Images (2)
+![Scatter Plot] https://github.com/aithalshreeram/Sparks_Foundation_Internship/tree/main/Task_1/Images/Images%20(1)
+![Regression Plot] https://github.com/aithalshreeram/Sparks_Foundation_Internship/tree/main/Task_1/Images%20(2)
 ## Output
