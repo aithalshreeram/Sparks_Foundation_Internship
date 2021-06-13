@@ -23,9 +23,11 @@ drive.mount('/content/drive')
 ## Graphs
 
 ### Joint Plot
+![image_of_jointplot](https://github.com/aithalshreeram/Sparks_Foundation_Internship/blob/main/Task_2/Images/Images%20(3).png)
 
 ### Pair Plot
+![image_of_pairplot](https://github.com/aithalshreeram/Sparks_Foundation_Internship/blob/main/Task_2/Images/Images%20(8).png)
 
 ### Scatter Plot
-
+![image_of_scatterplot](https://github.com/aithalshreeram/Sparks_Foundation_Internship/blob/main/Task_2/Images/Images%20(11).png)
 ## Output
