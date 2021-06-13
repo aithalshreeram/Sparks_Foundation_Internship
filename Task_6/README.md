@@ -26,4 +26,4 @@ drive.mount('/content/drive')
 
 ### Decision Tree Classifier
 
-![decision_tree_classifier](https://github.com/aithalshreeram/Sparks_Foundation_Internship/blob/main/Task_6/Images/Image%20(1).png)
+![decisiontree_classifier](https://github.com/aithalshreeram/Sparks_Foundation_Internship/blob/main/Task_6/Images/Image%20(1).png)
