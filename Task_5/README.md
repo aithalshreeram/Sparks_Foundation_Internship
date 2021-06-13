@@ -12,7 +12,8 @@ contributing win or loss of a team.
 
 ## Libraries
 ~~~
-
+import pandas as pd
+import numpy as np
 ~~~
 ## Graphs
 
