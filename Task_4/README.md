@@ -24,5 +24,36 @@ drive.mount('/content/drive')
 ~~~
 ## Graphs
 
-## Output
+### Number of People Died with respect to Year
+![with_respect_to_year](https://github.com/aithalshreeram/Sparks_Foundation_Internship/blob/main/Task_4/Images/Images%20(2).png)
 
+### Number of People Died with respect to Attack
+![with_respect_to_year](https://github.com/aithalshreeram/Sparks_Foundation_Internship/blob/main/Task_4/Images/Images%20(3).png)
+
+### Number of People Died with respect to Region
+![with_respect_to_year](https://github.com/aithalshreeram/Sparks_Foundation_Internship/blob/main/Task_4/Images/Images%20(4).png)
+
+### Number of People Died with respect to Weapons Used
+![with_respect_to_year](https://github.com/aithalshreeram/Sparks_Foundation_Internship/blob/main/Task_4/Images/Images%20(5).png)
+
+## Conclusion
+
+### The country with higest number of attacks
+
+#### Iraq
+
+### Region with higest number of attacks
+
+#### Middle East & North Africa
+
+### Top 3 regions with most attacks
+
+#### Middle East & North Africa
+
+#### South Asia
+
+#### South America
+
+#### Sub-Saharan Africa
+
+Maximum number of people that were killed by a single terrorist attack were 1570.0 people, which took place in Iraq
