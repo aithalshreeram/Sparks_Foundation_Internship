@@ -31,7 +31,10 @@ import matplotlib.pyplot as plt
 
 ## Conclusion
 
-Among all other information i have 3 key points which i believe deserves focus
+Among all other information we have 3 key points which i believe deserves focus
+
 1). Discount should not be more than 0.3
+
 2). Furniture Sector is suffering losses
+
 3). Tables,Book cases and supplies are suffering losses
