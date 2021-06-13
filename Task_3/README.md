@@ -22,5 +22,16 @@ import matplotlib.pyplot as plt
 ~~~
 ## Graphs
 
-## Output
+### Profitplot
 
+![image_of_profit_vs_segmet](https://github.com/aithalshreeram/Sparks_Foundation_Internship/blob/main/Task_3/Images/Images%20(2).png)
+### Salesplot
+
+![image_of_sales_vs_segmet](https://github.com/aithalshreeram/Sparks_Foundation_Internship/blob/main/Task_3/Images/Images%20(3).png)
+
+## Conclusion
+
+Among all other information i have 3 key points which i believe deserves focus
+1). Discount should not be more than 0.3
+2). Furniture Sector is suffering losses
+3). Tables,Book cases and supplies are suffering losses
